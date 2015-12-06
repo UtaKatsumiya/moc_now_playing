@@ -1,6 +1,7 @@
 # -*-coding: utf-8 -*-
 # moc_now_playing
-# mocで再生中の楽曲情報をtweetするmikutterコマンドを追加するプラグイン
+# mocで再生中の楽曲情報をツイートするmikutterコマンドを追加するプラグイン
+# mocp -iで情報を取得してます
 
 Plugin.create(:moc_now_playing) {
 	command(:now_playing,
