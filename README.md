@@ -1,0 +1,1 @@
+mikutterでmusic on consoleで再生中の歌手名、曲名をツイートするmikutterコマンドを追加するプラグイン
