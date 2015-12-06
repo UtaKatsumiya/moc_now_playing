@@ -1,0 +1,9 @@
+---
+slug: :moc_now_playing
+depends:
+  mikutter: 3.2.10
+  plugin: []
+version: 0.0.1
+author: Uta_Katsumiya
+name: moc-now-playing
+description: なうぷれコマンドを追加する
